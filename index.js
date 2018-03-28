@@ -1,0 +1,22 @@
+function shout(string) {
+  return string.toUpperCase()
+}
+function whisper(string) {
+  return string.toLowerCase()
+}
+
+function logShout(hello){
+  console.log('HELLO')
+}
+
+function logWhisper(hello){
+  console.log('hello')
+}
+
+function sayHiToGrandma(hello) {
+  return ("I can't hear you!")
+}
+
+function sayHiToGrandma(string) {
+  return("YES INDEED!")
+}
